@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flopsky
 - 👀 I’m interested in Data Science, HPC and problem solving.
 - 🌱 I’m currently learning Deep Learning, HPC methods and full stack development
-- 💞️ I’m looking to collaborate on Data Science, Maths libraries development 
+- 💞️ I’m looking to collaborate on Data Science 🔥 , Maths libraries development 🔥
 - 📫 How to reach me davidkamgang84@gmail.com
 
 <!---
